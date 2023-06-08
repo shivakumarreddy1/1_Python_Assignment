@@ -1,5 +1,6 @@
 # 1_Python_Assignment
 Python Assignment -Writing program for the given questions 
+
 Q1. Explain with an example each when to use a for loop and a while loop.
 
 Q2. Write a python program to print the sum and product of the first 10 natural numbers using for
