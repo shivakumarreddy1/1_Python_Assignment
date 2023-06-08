@@ -20,3 +20,5 @@ Your program must pass this test case: when the unit of electricity consumed by 
 
 Q5. Write a program to filter count vowels in the below-given string.
 string = "I want to become a data scientist"
+
+Check the ipynb file for answers
